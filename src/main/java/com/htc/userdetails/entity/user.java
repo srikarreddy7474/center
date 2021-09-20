@@ -101,7 +101,7 @@ public class user {
 	}
 	@Override
 	public String toString() {
-		return "UserService [userName=" + userName + ", phoneNumber=" + phoneNumber + ", emailAddress=" + emailAddress
+		return "UserServices [userName=" + userName + ", phoneNumber=" + phoneNumber + ", emailAddress=" + emailAddress
 				+ ", age=" + age + ", gender=" + gender + "]";
 	}
 }
